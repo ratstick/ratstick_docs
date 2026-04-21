@@ -1,8 +1,22 @@
-## Hello my name is...
-Rat. Please just call me Rat. Welcome 2 my webbed site. This is where I will publish my modding guides, writing tips, original writing, and some portfolio type of things. If I ever have anything portfolio-worthy to share.
+---
+description: >-
+  Welcome 2 my webbed site. This is where I will publish any modding guides I
+  create as well as my writing tips.
+noIndex: true
+---
 
-I write fanfic about my two Cyberpunk 2077 OCs. You should read it, it's really good. [Find it on my AO3 here.](https://archiveofourown.org/works/55783312/chapters/141619393)
-### Contact
-If you need help with modding (NPVs/NPC+, hair colors) or have recommendations for improving my guides, you can contact me in the following ways:
-- [Nexus Mods](https://next.nexusmods.com/profile/ratstick)
-- Email: rat@ratstick.net
+# Hello
+
+{% hint style="info" %}
+**This site is a continual WIP. I apologize in advance for empty pages and screwy formatting as I work to convert my guides.**
+{% endhint %}
+
+## Contact info
+
+If you need help with any modding (I'm most familiar with NPVs, NPC+, and hair colors) or have any recommendations for improving my guides, you can contact me in the following ways:
+
+* Discord: ratsstick I'm in the main modding discord.
+* [Tumblr](https://streetkid-named-desire.tumblr.com/)
+* [Nexus](https://streetkid-named-desire.tumblr.com/)
+* [Email](mailto:streetkidrat@gmail.com)
+
